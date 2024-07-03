@@ -1,8 +1,12 @@
-<p align="left">Hi ! My name is José Sorto<br><br>I am a university student of business computing. My skills are:</p>
+<h1 align="left">Hi ! My name is José Sorto</h1>
 
 ###
 
-<p align="left">General knowledge of<br><br>I have worked with both languages ​​in many jobs. In these I have tested my problem-solving abilities.</p>
+<p align="left">I am a university student of business computing. My skills are:</p>
+
+###
+
+<h2 align="center">General knowledge of</h2>
 
 ###
 
@@ -14,11 +18,19 @@
 
 ###
 
-<p align="left">Web development</p>
+<p align="left">I have worked with both languages ​​in many jobs. In these I have tested my problem-solving abilities.</p>
 
 ###
 
-<p align="left">Front End<br><br>In application design I have knowledge of the following frameworks</p>
+<h2 align="center">Web development</h2>
+
+###
+
+<h3 align="left">Front End</h3>
+
+###
+
+<p align="left">In application design I have knowledge of the following frameworks</p>
 
 ###
 
@@ -42,7 +54,11 @@
 
 ###
 
-<p align="left">Back End<br><br>In the development of application logic I have knowledge about</p>
+<h3 align="left">Back End</h3>
+
+###
+
+<p align="left">In the development of application logic I have knowledge about</p>
 
 ###
 
@@ -56,7 +72,11 @@
 
 ###
 
-<p align="left">Data Base<br><br>I have also worked with the following database managers</p>
+<h3 align="left">Data Base</h3>
+
+###
+
+<p align="left">I have also worked with the following database managers</p>
 
 ###
 
